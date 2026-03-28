@@ -1,6 +1,6 @@
-# GLAB-330.2.1-Correlation-Covariance
+#Correlation-Covariance
 Basic Example for Correlation Coefficient and Covariance
-# GLAB 330.2.1 – Correlation Coefficient and Covariance
+# Correlation Coefficient and Covariance
 
 ## Objective
 This project demonstrates how to calculate and interpret covariance and correlation coefficient using a simple dataset of temperature and ice cream sales.
